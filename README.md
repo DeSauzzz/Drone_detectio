@@ -330,9 +330,6 @@ $L = {c\phi \over 2f\pi}$
 ## Примечание
 Разделить радиопоглощающие материалы можно на два вида – узко- и широкодиапазонные. Первые обычно создаются из различного рода пластмасс или пластиков. В случае со вторыми используется ферромагнетик, он вводятся в слой изоляции, состоящий из немагнитного диэлектрика.
 
-Источник контента: https://naukatehnika.com/novoe-radiopogloshayushee-pokrytie-rpm-sa-n.html
-naukatehnika.com
-
 # Литература и статьи
 https://www.astrosoft.ru/articles/radar/obnaruzhenie-dronov-s-pomoshchyu-rls-s-mimo-i-ofdm/ - Обнаружение дронов с помощью РЛС с MIMO и OFDM
 
